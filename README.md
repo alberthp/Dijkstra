@@ -9,6 +9,8 @@ Automagtic generation and visualization of Graph, including Nodes, Connections a
 
 Users can generate new graphs based on the JSON example provided at the fist part or use the automatic generator.
 
+NOTE: The "Process Dijkstra" button is stil not working. Manual execution of the code block is required once the graph is defined.
+
 ## Part 2:
 Computation of the Dijkstra minimum cost path. 
 
