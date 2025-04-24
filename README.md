@@ -104,23 +104,21 @@ Based on classical Dijkstra minimum cost path algorithm for graphs. Shows, at ea
 
 At each step, the program shows the graph with the nodes and the table
 <p align="center">
-  <img src="/images/DJKStep01.png" alt="Example of algorithm iteration">
+  <img src="/images/DJKStep01.png" alt="Example of algorithm iteration" width="600">
   <br>
-  Example of algorithm iteration. Green nodes: Already in N', Blue nodes: Nodes in study (connected with current node)
+  Example of algorithm iteration #1. Green nodes: Already in N', Blue nodes: Nodes in study (connected with current node)
 </p>  
 
-At each step, the program shows the graph with the nodes and the table
 <p align="center">
-  <img src="/images/DJKStep01.png" alt="Example of algorithm iteration">
+  <img src="/images/DJKStep01.png" alt="Example of algorithm iteration" width="600">
   <br>
-  Example of algorithm iteration. Green nodes: Already in N', Blue nodes: Nodes in study (connected with current node)
+  Example of algorithm iteration #3. Green nodes: Already in N', Blue nodes: Nodes in study (connected with current node)
 </p>  
 
-At each step, the program shows the graph with the nodes and the table
 <p align="center">
-  <img src="/images/DJKStep01.png" alt="Example of algorithm iteration">
+  <img src="/images/DJKStep01.png" alt="Example of algorithm iteration" width="600">
   <br>
-  Example of algorithm iteration. Green nodes: Already in N', Blue nodes: Nodes in study (connected with current node)
+  Example of algorithm iteration #6. Green nodes: Already in N', Blue nodes: Nodes in study (connected with current node)
 </p>  
 
 At the end of the computation, it shows the resulting tables with the computation
@@ -128,7 +126,7 @@ At the end of the computation, it shows the resulting tables with the computatio
 <p align="center">
   <img src="/images/DJKStepFinal.png" alt="Final results">
   <br>
-  Selection of initial node
+  Final results
 </p>  
 
 
@@ -144,8 +142,8 @@ Last code cell creates a sequence of resulting minimum cost paths including:
 Use the reproduction buttons to execute the animation.
 
 <p align="center">
-  <img src="/images/DJKStepAnimation.png" alt="Final results">
+  <img src="/images/DJKStepAnimation.png" alt="Final results" width="600">
   <br>
-  Selection of initial node
+  Animation of minimum cost paths
 </p>  
 
