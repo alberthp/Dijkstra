@@ -1,5 +1,11 @@
 # Dijkstra computation for a network of routers
 
+<a href="https://colab.research.google.com/github/alberthp/Dijkstra/blob/main/Networks_Dijkstra.ipynb" target="_blank">Execute in Google Colab</a>
+
+Link: https://colab.research.google.com/github/alberthp/Dijkstra/blob/main/Networks_Dijkstra.ipynb
+
+
+
 ## Description
 
 Computation of the Dijkstra minimum cost paths between origin node and all rest of nodes in a non-directional (can be understood as bidirectional) network of routers. This program is designed to be an illustative method that shows minimum cost table and graph at each algorithm iteration.  
